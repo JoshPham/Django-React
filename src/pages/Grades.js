@@ -4,7 +4,9 @@ function Grades() {
     return(
         <>
             <Navbar />
-            <h1>Grades</h1>
+            <div className="container">
+                <h1>Grades</h1>
+            </div>
         </>
     )
 }

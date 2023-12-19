@@ -4,7 +4,9 @@ function NoPage() {
     return(
         <>
             <Navbar />
-            <h1>Error 404: Not Found</h1>
+            <div className="container">
+                <h1>Error 404: Not Found</h1>
+            </div>
         </>
     )
 }

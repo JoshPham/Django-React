@@ -3,3 +3,7 @@
     margin: 0;
     font-family: monospace;
 }
+
+.container{
+    padding: 0.625rem;
+}
